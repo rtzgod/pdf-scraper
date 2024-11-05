@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	internal2 "github.com/rtzgod/email-scraper/go/internal"
+	internal2 "github.com/rtzgod/pdf-scraper/go/internal"
 	"os"
 	"regexp"
 	"sync"

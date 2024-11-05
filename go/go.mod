@@ -1,4 +1,4 @@
-module github.com/rtzgod/email-scraper
+module github.com/rtzgod/pdf-scraper
 
 go 1.23.0
 
